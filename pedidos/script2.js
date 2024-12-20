@@ -1,5 +1,5 @@
 function goBack() {
-    window.location.href = "../index.html";
+    window.location.href = "../Menú/menu.html";
 }
 
 let totalAmount = 0;

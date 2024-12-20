@@ -11,8 +11,8 @@ function closeModal() {
   document.getElementById("modal").style.display = "none";
 }
 
-function redirectToPedidos() {
-  window.location.href = "../pedidos/pedidos.html"; // Ajusta la ruta si es necesario
+function redirectToMenuCaja() {
+  window.location.href = "../menu_caja/menu.html";
 }
 
 function logout() {
